@@ -7,6 +7,23 @@ Submitted to *Nonlinear Science* for its second round of review in September 202
 
 ---
 
+## Authors
+
+- **Thalita Nazaré** (Corresponding author)  
+  Hamilton Institute, Centre for Ocean Energy Research, Department of Electrical Engineering, Maynooth University, Ireland  
+  📧 thalita.nazare.2023@mumail.ie  
+
+- **Jander P. Santos**  
+  Department of Mathematics, Federal University of São João del-Rei, Brazil  
+
+- **Isabelle Queinnec**  
+  LAAS - CNRS, Université de Toulouse, CNRS, France  
+
+- **Erivelton Nepomuceno**  
+  Hamilton Institute, Centre for Ocean Energy Research, Department of Electrical Engineering, Maynooth University, Ireland  
+
+---
+
 ## Repository Structure
 
 - **QB_pitch_01.txt, QB_pitch_02.txt, QB_pitch_03.txt**  
@@ -40,4 +57,5 @@ The executable version of QBlade used in this study can be downloaded from the f
 
 If you use these data files, please cite the article once published:
 
+> Thalita Nazaré, Jander P. Santos, Isabelle Queinnec, Erivelton Nepomuceno.  
 > *A floating inverted pendulum model for analysing the pitch stability of offshore wind turbines*, Nonlinear Science (under review, 2025).
