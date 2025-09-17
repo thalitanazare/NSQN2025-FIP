@@ -45,8 +45,7 @@ Submitted to *Nonlinear Science* for its second round of review in September 202
 ---
 
 ## QBlade Executable
-
-The simulations were carried out using **QBlade**.  
+ 
 The executable version of QBlade used in this study can be downloaded from the following link:  
 
 👉 [QBlade Executable on Google Drive](https://drive.google.com/file/d/1SMEhX2tq-kBDL91CKqsFs6wUpr0ksaWV/view?usp=share_link)
