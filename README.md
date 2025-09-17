@@ -1,6 +1,6 @@
 # Simulation Data for Floating Inverted Pendulum Model
 
-This repository contains the input and output data files used in the simulations for the article:
+This repository contains the data files used in the simulations for the article:
 
 **"A floating inverted pendulum model for analysing the pitch stability of offshore wind turbines"**  
 Submitted to *Nonlinear Science* for its second round of review in September 2025.
